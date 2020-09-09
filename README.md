@@ -6,7 +6,7 @@ live link
 
 # Preview
 
-(https://friendly-bohr-36ab83.netlify.app/)
+![(https://friendly-bohr-36ab83.netlify.app/)]
 
 # How to use
 
