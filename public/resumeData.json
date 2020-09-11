@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name": "Khandaker Sultana",
+    "occupation": "Full Stack Software Developer",
+    "description": "Full Stack Software Developer and a mother",
+    "image": "IMG_3379.JPG",
+    "bio": "My name is Sultana. I'm a Full Stack Software Developer. Currently I'm working as Substitute Teacher.",
+    "contactmessage": "Get in touch with me to receive further details, want to hire me or anything else.",
+    "email": "kr.shampa@yahoo.com",
+    "phone": "+1 830 305 6152",
+    "address": {
+      "street": "123 Banani Street",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77407"
+    },
+    "website": "https://sultanak.github.io/Portfoli-Khandaker_Sultana/",
+    "resumedownload": "https://drive.google.com/file/d/1dRQI9VOolzcR5TEcpmZBYELDdPOEd1op/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/khandakerrazia.sultanashampa/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/khandaker-sultana/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Sultana_R_K",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SultanaK",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Jahangirnagar University",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "January 2005",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Katy ISD",
+        "title": "Substitute Teacher",
+        "years": "August 2017 - Present",
+        "description": "Teaching Computer Science."
+      },
+      {
+        "company": "Eastern Bank ltd",
+        "title": "IT Specialist",
+        "years": "Nov 2010 - July 2013",
+        "description": "Prepare and analysis report as per financial transaction & Resolve software issues reported by user."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Figma, Balsamiq Wireframes & excalidraw",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Recipe-Master",
+        "category": "Recipe-Master is client-side apps that interact with third-party APIs. (HTML, CSS, JavaScript, jQuery, Spoonacular API, Rapid API)",
+        "image": "recipeMaster.png",
+        "url": "https://sultanak.github.io/Recipe-Master/."
+      },
+      {
+        "title": "Javascript-Quiz-App",
+        "category": "Quiz Application (HTML5, CSS3 and jQuery.)",
+        "image": "quizApp.png",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Notefull App",
+        "category": "A full Stack note taking Application built with PERN (NodeJS,Express,PostgreSQL and ReactJS)",
+        "image": "noteful.png",
+        "url": "https://noteful-app-five-theta.vercel.app/"
+      },
+      
+      {
+        "title": "A portfolio website",
+        "category": "Portfolio built with HTML5,CSS3 Javascript and Bootstrap ",
+        "image": "portfoliome.png",
+        "url": "https://sultanak.github.io/Portfoli-Khandaker_Sultana/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Whether you’re a stay-at-home (SAHM) who wants to make an income, a workforce mom who wants to be a SAHM, or a mom not satisfied with your current career, I have the job for you. No, it’s not selling a product, getting involved with a scam, or even being a telemarketer…it’s called coding..",
+        "user": "From Code Like A Mother"
+      }
+    ]
+  }
+}
